@@ -1,0 +1,26 @@
+body{
+	background-color:white;
+}
+h1{
+	
+	border-width: 2px;
+	padding: 40px;
+	border-style: solid;
+	background-color:#5892ef;
+	color: white;
+
+}
+.bod{
+	border-width: 2px;
+	padding: 10px;
+	padding-bottom: 300px;
+	border-style: solid;
+	background-color:#e8eaed;
+	border-color: white;
+}
+.butt{
+	background-color:purple;
+	color: white;
+	text-align:center;
+	
+}
